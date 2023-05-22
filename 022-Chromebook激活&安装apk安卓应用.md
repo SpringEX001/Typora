@@ -1,4 +1,4 @@
-# [Chromebook激活&安装apk安卓应用 | Lenovo 10e与Lenovo duet玩机指南](https://www.cnblogs.com/izcat/p/17076423.html)
+# [激活&安装apk安卓应用 | Lenovo 10e与Lenovo duet玩机指南](https://www.cnblogs.com/izcat/p/17076423.html)
 
 最近在家对门收了一台联想Chromebook平板，第一次接触Linux平板，在激活登录和安装应用方面踩了一些坑。
 本文记录一下设备登录方法、开发者模式开启以及该平板的折腾方式，方便玩机爱好者更快开启新世界大门。
