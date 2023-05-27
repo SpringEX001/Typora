@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "025- win10资源管理器频繁重启可能原因及解决方案.md",
+                "file": "010-Typora+github-云笔记1.0版本.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "025- win10资源管理器频繁重启可能原因及解决方案.md",
+                "file": "010-Typora+github-云笔记1.0版本.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "025- win10资源管理器频繁重启可能原因及解决方案.md",
+                "file": "010-Typora+github-云笔记1.0版本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "025- win10资源管理器频繁重启可能原因及解决方案.md"
+                "file": "010-Typora+github-云笔记1.0版本.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "9e4db492fef6fad1",
   "lastOpenFiles": [
+    "025- win10资源管理器频繁重启可能原因及解决方案.md",
     "026-Notion 优质资源汇总.md",
     "017-作业2.md",
     "006-Chromebook linux 容器配置(一) ：中文环境.md",
@@ -156,7 +157,6 @@
     "012-Yuzu模拟器安装使用教程.md",
     "015-双屏，ppt只在一个显示器上放映.md",
     "014-Ryujinx模拟器文件转移.md",
-    "025- win10资源管理器频繁重启可能原因及解决方案.md",
     "024-待办.md",
     "Untitled.md",
     "022-Chromebook激活&安装apk安卓应用.md",
