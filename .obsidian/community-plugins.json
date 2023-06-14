@@ -1,4 +1,12 @@
 [
   "remotely-save",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin",
+  "hotkeysplus-obsidian",
+  "obsidian-markmind",
+  "obsidian-image-toolkit",
+  "open-in-new-tab",
+  "mousewheel-image-zoom",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings"
 ]

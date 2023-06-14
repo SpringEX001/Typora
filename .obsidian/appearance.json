@@ -1,5 +1,8 @@
 {
   "accentColor": "",
-  "theme": "moonstone",
-  "translucency": false
+  "theme": "obsidian",
+  "translucency": false,
+  "interfaceFontFamily": "Microsoft YaHei",
+  "baseFontSize": 19,
+  "cssTheme": "Minimal"
 }

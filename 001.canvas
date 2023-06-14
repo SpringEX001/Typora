@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f0cc8940bd10d2f6","x":-69,"y":132,"width":250,"height":60,"type":"text","text":""},
+		{"id":"dda0ef1fe1bc09b3","x":-136,"y":0,"width":250,"height":60,"color":"2","type":"text","text":"反赛陈炯多沉"},
+		{"id":"c47462e0e8d3d342","x":181,"y":-230,"width":400,"height":290,"type":"file","file":"001- 附件/003-笔记目录.png"},
+		{"id":"9ddbe1292e771240","x":-469,"y":-540,"width":400,"height":400,"type":"file","file":"003-习题.md"}
+	],
+	"edges":[
+		{"id":"a0821208b3ecf1bc","fromNode":"9ddbe1292e771240","fromSide":"right","toNode":"c47462e0e8d3d342","toSide":"left"}
+	]
+}

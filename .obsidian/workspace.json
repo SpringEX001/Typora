@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "00acd8338efa7a0f",
+        "id": "f87f604031c9712b",
         "type": "tabs",
         "children": [
           {
-            "id": "9e4db492fef6fad1",
+            "id": "044e2a9a1a96052a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010-Typora+github-云笔记1.0版本.md",
+                "file": "033-笔记案例.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf8fcf8be552cf92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "034-笔记软件.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010-Typora+github-云笔记1.0版本.md",
+                "file": "033-笔记案例.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010-Typora+github-云笔记1.0版本.md",
+                "file": "033-笔记案例.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010-Typora+github-云笔记1.0版本.md"
+                "file": "033-笔记案例.md"
               }
             }
           }
@@ -134,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,29 +157,58 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "9e4db492fef6fad1",
+  "active": "044e2a9a1a96052a",
   "lastOpenFiles": [
-    "025- win10资源管理器频繁重启可能原因及解决方案.md",
-    "026-Notion 优质资源汇总.md",
-    "017-作业2.md",
-    "006-Chromebook linux 容器配置(一) ：中文环境.md",
-    "011-Typora + Github + 腾讯云, 如何优雅地完成文档编辑与云同步.md",
-    "012-Yuzu模拟器安装使用教程.md",
-    "015-双屏，ppt只在一个显示器上放映.md",
-    "014-Ryujinx模拟器文件转移.md",
-    "024-待办.md",
-    "Untitled.md",
-    "022-Chromebook激活&安装apk安卓应用.md",
-    "019-PS快捷键.md",
-    "018-城市经济学.md",
-    "023-文献综述的写作要求.md",
-    "021-CAD画图画面抖动.md",
-    "004-习题.md",
-    "008-Linux中为Pycharm创建快捷方式.md",
-    "007-Linux系统中打开pycharm软件.md",
-    "013-Yuzu模拟器文件转移.md"
+    "034-笔记软件.md",
+    "033-笔记案例.md",
+    "036-C盘清理.md",
+    "037-碳足迹.md",
+    "笔记.md",
+    "003-快捷键/039-Obsidian快捷键.md",
+    "041-【Obsidian视觉笔记】如何降低阅读文献和教科书的痛苦（白板和excalidraw）.md",
+    "038-内网穿透软件选择.md",
+    "003-快捷键/020-CAD快捷键.md",
+    "042-Excalidraw修改字体样式.md",
+    "030–绘图软件.md",
+    "027-每日清单.md",
+    "035-linux命令.md",
+    "029-繁体字对照表.md",
+    "027-宁静交通规划举措.md",
+    "001- 附件/Pasted image 20230614150720.png",
+    "ctrl+p.md",
+    "option.md",
+    "003-快捷键/未命名.md",
+    "001- 附件/004-内网穿透.png",
+    "001- 附件/003-笔记目录.png",
+    "Excalidraw/Drawing 2023-06-13 23.36.52.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-14 00.21.19.excalidraw.md",
+    "003-习题.md",
+    "Excalidraw/Drawing 2023-06-14 00.33.24.excalidraw.md",
+    "001- 附件/Pasted image 20230614003743.png",
+    "001- 附件/Pasted image 20230614003718.png",
+    "001- 附件/Pasted image 20230614003647.png",
+    "Excalidraw/Drawing 2023-06-14 00.23.26.excalidraw.md",
+    "001- 附件/Pasted image 20230614002714.png",
+    "Excalidraw/004-风景园林快速设计与表现.pdf",
+    "Excalidraw/未命名.md",
+    "Excalidraw/Fonts/AiYouQiXian-NanMianXinSui-2.ttf",
+    "Excalidraw/Fonts/WoXiangJianNiBuLunTianQi-2.ttf",
+    "Excalidraw/Fonts",
+    "Excalidraw/新建文件夹",
+    "001- 附件/Pasted image 20230613233216.png",
+    "001.canvas",
+    "Excalidraw",
+    "001- 附件/Pasted image 20230613232955.png",
+    "001- 附件/Pasted image 20230613232849.png",
+    "002-各类教程/031-魅族16P终极养老教程.md",
+    "002-各类教程/022-Chromebook激活&安装apk安卓应用.md",
+    "002-各类教程/软件安装教程",
+    "003-快捷键",
+    "002-各类教程",
+    "001- 附件"
   ]
 }
